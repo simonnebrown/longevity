@@ -5,36 +5,46 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>4392A5E4-22AE-4526-B4DB-E38D4A82FFAA</string>
+	<string>BF5454B0-F7FD-401A-A19E-9F1D5782A28D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>longevity</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8D54F704-80A0-4CA0-8525-AB426BA9DB59</key>
-		<string>https://github.com/floatingbob/longevity.git</string>
+		<key>0839AD53-9654-48AE-810B-C937C4E6DC9C</key>
+		<string>https://github.com/simonnebrown/longevity.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>longevity.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8D54F704-80A0-4CA0-8525-AB426BA9DB59</key>
+		<key>0839AD53-9654-48AE-810B-C937C4E6DC9C</key>
 		<string>../..</string>
+		<key>A137A9E4-14A2-472F-9CC1-3B080A956E56</key>
+		<string>../../../Longevity</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/floatingbob/longevity.git</string>
+	<string>https://github.com/simonnebrown/longevity.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8D54F704-80A0-4CA0-8525-AB426BA9DB59</string>
+	<string>0839AD53-9654-48AE-810B-C937C4E6DC9C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8D54F704-80A0-4CA0-8525-AB426BA9DB59</string>
+			<string>0839AD53-9654-48AE-810B-C937C4E6DC9C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>longevity</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A137A9E4-14A2-472F-9CC1-3B080A956E56</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Longevity</string>
 		</dict>
 	</array>
 </dict>
